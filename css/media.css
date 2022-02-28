@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .mobile {
+    display: none;
+  }
+
+  .desktop {
+    display: block;
+  }
+
+  .promo .btn {
+    display: none;
+  }
+}

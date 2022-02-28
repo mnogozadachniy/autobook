@@ -1,0 +1,25 @@
+/* Colors */
+@brick : #c63417;
+body {
+  background-color: #fff;
+  font-size: 14px;
+}
+
+.button {
+  border: 0px;
+  border-radius: 0px;
+}
+
+.navbar-toggle {
+  background-color: #5b5b5b;
+  width: 51px;
+  height: 51px;
+}
+
+.icon-bar {
+  color: #fff;
+}
+
+.navbar-brand {
+  padding: 10px;
+}
